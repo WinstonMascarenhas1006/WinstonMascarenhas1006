@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Focus areas">
+  <rect width="1200" height="170" rx="16" fill="#0b1520"/>
+  <rect x="1" y="1" width="1198" height="168" rx="15" fill="none" stroke="#1e293b" stroke-width="2"/>
+
+  <!-- card 1 -->
+  <rect x="24" y="24" width="274" height="122" rx="12" fill="#0f1c28" stroke="#1e293b"/>
+  <text x="48" y="64" fill="#5eead4" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" letter-spacing="1.5">01</text>
+  <text x="48" y="96" fill="#f1f5f9" font-family="Georgia, 'Times New Roman', serif" font-size="22">Detection</text>
+  <text x="48" y="124" fill="#94a3b8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">Signals ’ findings</text>
+
+  <!-- card 2 -->
+  <rect x="316" y="24" width="274" height="122" rx="12" fill="#0f1c28" stroke="#1e293b"/>
+  <text x="340" y="64" fill="#5eead4" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" letter-spacing="1.5">02</text>
+  <text x="340" y="96" fill="#f1f5f9" font-family="Georgia, 'Times New Roman', serif" font-size="22">Hardening</text>
+  <text x="340" y="124" fill="#94a3b8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">Baselines &amp; assurance</text>
+
+  <!-- card 3 -->
+  <rect x="608" y="24" width="274" height="122" rx="12" fill="#0f1c28" stroke="#1e293b"/>
+  <text x="632" y="64" fill="#5eead4" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" letter-spacing="1.5">03</text>
+  <text x="632" y="96" fill="#f1f5f9" font-family="Georgia, 'Times New Roman', serif" font-size="22">Adversary lens</text>
+  <text x="632" y="124" fill="#94a3b8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">Lab-grounded defense</text>
+
+  <!-- card 4 -->
+  <rect x="900" y="24" width="274" height="122" rx="12" fill="#0f1c28" stroke="#1e293b"/>
+  <text x="924" y="64" fill="#5eead4" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" letter-spacing="1.5">04</text>
+  <text x="924" y="96" fill="#f1f5f9" font-family="Georgia, 'Times New Roman', serif" font-size="22">Secure build</text>
+  <text x="924" y="124" fill="#94a3b8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">Systems with boundaries</text>
+</svg>

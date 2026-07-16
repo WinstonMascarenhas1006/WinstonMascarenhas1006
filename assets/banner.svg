@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Winston Mascarenhas  Cybersecurity profile banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111a"/>
+      <stop offset="55%" stop-color="#0b1c29"/>
+      <stop offset="100%" stop-color="#102a2a"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5eead4" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#5eead4" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#5eead4" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#5eead4" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#grid)"/>
+
+  <!-- soft vignette -->
+  <circle cx="980" cy="70" r="220" fill="#5eead4" fill-opacity="0.05"/>
+  <circle cx="160" cy="300" r="180" fill="#2dd4bf" fill-opacity="0.04"/>
+
+  <!-- schematic node motif -->
+  <g stroke="#5eead4" stroke-opacity="0.35" fill="none" stroke-width="1.2">
+    <path d="M820 90h90v50h70"/>
+    <path d="M860 210h120"/>
+    <path d="M940 140v70"/>
+    <circle cx="820" cy="90" r="4" fill="#5eead4" fill-opacity="0.8" stroke="none"/>
+    <circle cx="910" cy="140" r="4" fill="#5eead4" fill-opacity="0.8" stroke="none"/>
+    <circle cx="980" cy="140" r="4" fill="#5eead4" fill-opacity="0.8" stroke="none"/>
+    <circle cx="980" cy="210" r="4" fill="#5eead4" fill-opacity="0.8" stroke="none"/>
+  </g>
+
+  <text x="72" y="118" fill="#94a3b8" font-family="Georgia, 'Times New Roman', serif" font-size="18" letter-spacing="3">
+    CYBERSECURITY · SECURE SYSTEMS · APPLIED COMPUTING
+  </text>
+
+  <text x="72" y="188" fill="#f8fafc" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700">
+    Winston Mascarenhas
+  </text>
+
+  <rect x="72" y="214" width="220" height="2" fill="url(#line)"/>
+
+  <text x="72" y="258" fill="#cbd5e1" font-family="Georgia, 'Times New Roman', serif" font-size="22">
+    Primary intellectual commitment: cybersecurity
+  </text>
+  <text x="72" y="292" fill="#64748b" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16">
+    Detection · Hardening · Secure software construction · Germany
+  </text>
+</svg>
