@@ -88,10 +88,10 @@ Case study on team process quality — complementary discipline for reliable del
 
 <p align="center">
   <a href="https://github.com/WinstonMascarenhas1006/cybersecurity-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WinstonMascarenhas1006&repo=cybersecurity-projects&theme=transparent&hide_border=true&bg_color=0B1520&title_color=5EEAD4&text_color=CBD5E1&icon_color=2DD4BF" alt="cybersecurity-projects" />
+    <img src="https://raw.githubusercontent.com/WinstonMascarenhas1006/WinstonMascarenhas1006/main/assets/pin-cyber.png" alt="cybersecurity-projects" />
   </a>
   <a href="https://github.com/WinstonMascarenhas1006/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WinstonMascarenhas1006&repo=Portfolio&theme=transparent&hide_border=true&bg_color=0B1520&title_color=5EEAD4&text_color=CBD5E1&icon_color=2DD4BF" alt="Portfolio" />
+    <img src="https://raw.githubusercontent.com/WinstonMascarenhas1006/WinstonMascarenhas1006/main/assets/pin-portfolio.png" alt="Portfolio" />
   </a>
 </p>
 
@@ -109,8 +109,8 @@ Case study on team process quality — complementary discipline for reliable del
 ### Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WinstonMascarenhas1006&show_icons=true&theme=transparent&hide_border=true&bg_color=0B1520&title_color=5EEAD4&icon_color=2DD4BF&text_color=E2E8F0&ring_color=0F766E" height="158" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinstonMascarenhas1006&layout=compact&theme=transparent&hide_border=true&bg_color=0B1520&title_color=5EEAD4&text_color=E2E8F0" height="158" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/WinstonMascarenhas1006/WinstonMascarenhas1006/main/assets/stats.png" alt="GitHub stats" height="170" />
+  <img src="https://raw.githubusercontent.com/WinstonMascarenhas1006/WinstonMascarenhas1006/main/assets/langs.png" alt="Top languages" height="170" />
 </p>
 
 ---
