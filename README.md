@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="assets/banner.svg" alt="Winston Mascarenhas — Cybersecurity" width="100%" />
+  <img src="https://raw.githubusercontent.com/WinstonMascarenhas1006/WinstonMascarenhas1006/main/assets/banner.png" alt="Winston Mascarenhas — Cybersecurity" width="100%" />
 </div>
 
 <br/>
@@ -29,7 +29,7 @@ I care about how attacks actually unfold, how defenses fail quietly, and how too
 <br/>
 
 <div align="center">
-  <img src="assets/focus-strip.svg" alt="Focus areas: Detection, Hardening, Adversary lens, Secure build" width="100%" />
+  <img src="https://raw.githubusercontent.com/WinstonMascarenhas1006/WinstonMascarenhas1006/main/assets/focus-strip.png" alt="Focus areas: Detection, Hardening, Adversary lens, Secure build" width="100%" />
 </div>
 
 <br/>
