@@ -1,49 +1,75 @@
 <!--
   GitHub Profile README — Winston Mascarenhas
-  Academic · cybersecurity-first · designed layout
+  Academic · cybersecurity-first · creative field-notes layout
 -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/WinstonMascarenhas1006/WinstonMascarenhas1006/main/assets/banner.png" alt="Winston Mascarenhas — Cybersecurity" width="100%" />
+  <img src="https://raw.githubusercontent.com/WinstonMascarenhas1006/WinstonMascarenhas1006/main/assets/banner.png" alt="Winston Mascarenhas — Field notes in cybersecurity" width="100%" />
+</div>
+
+<p align="center">
+  <a href="https://portfolio-winston-mascarenhas.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Open-0f766e?style=flat-square" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://github.com/WinstonMascarenhas1006/cybersecurity-projects"><img src="https://img.shields.io/badge/Security_lab-15_tools-1e3a5f?style=flat-square" alt="Security lab" /></a>
+  &nbsp;
+  <a href="https://github.com/WinstonMascarenhas1006"><img src="https://img.shields.io/badge/Based_in-Germany-334155?style=flat-square" alt="Germany" /></a>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/WinstonMascarenhas1006/WinstonMascarenhas1006/main/assets/quote.png" alt="Working principle quote" width="100%" />
 </div>
 
 <br/>
 
-<p align="center">
-  <a href="https://portfolio-winston-mascarenhas.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0f766e?style=flat-square" alt="Portfolio" /></a>
-  &nbsp;
-  <a href="https://github.com/WinstonMascarenhas1006/cybersecurity-projects"><img src="https://img.shields.io/badge/Lab_corpus-15_tools-1e3a5f?style=flat-square" alt="Security lab" /></a>
-  &nbsp;
-  <a href="https://github.com/WinstonMascarenhas1006"><img src="https://img.shields.io/badge/Location-Germany-334155?style=flat-square" alt="Germany" /></a>
-</p>
+### Thesis
 
----
+Cybersecurity is not adjacent to my work — it is the **organizing question**.  
+I care about how trust fails, how signals become findings, and how defenses can be made **measurable** in careful, ethical labs.
 
-### About
+<div align="center">
+  <img src="https://raw.githubusercontent.com/WinstonMascarenhas1006/WinstonMascarenhas1006/main/assets/focus-strip.png" alt="Four focus areas" width="100%" />
+</div>
 
-I work at the intersection of **cybersecurity practice** and **applied software engineering**.  
-Cybersecurity is the through-line of my public work — not an add-on.
+<br/>
 
-I care about how attacks actually unfold, how defenses fail quietly, and how tooling can make security **measurable, teachable, and reproducible** in controlled labs.
+<table>
+<tr>
+<td width="48%" valign="top">
+
+### Interest map
+<div align="center">
+  <img src="https://raw.githubusercontent.com/WinstonMascarenhas1006/WinstonMascarenhas1006/main/assets/radar.png" alt="Interest radar" width="100%" />
+</div>
+
+</td>
+<td width="52%" valign="top">
+
+### Research agenda
+
+| | |
+|:--|:--|
+| **I · Detection** | Logs, traffic, host artifacts → structured findings |
+| **II · Hardening** | Baselines, exposure reduction, verifiable checks |
+| **III · Adversary lens** | Lab study of techniques so remediation is concrete |
+| **IV · Secure build** | Full-stack systems with explicit trust boundaries |
+
+**Method notes**
+- Reproducible labs, explicit scope  
+- Assumptions & ethics documented  
+- Prefer reports / structured exports  
+- Engineering discipline kept visible  
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/WinstonMascarenhas1006/WinstonMascarenhas1006/main/assets/focus-strip.png" alt="Focus areas: Detection, Hardening, Adversary lens, Secure build" width="100%" />
+  <img src="https://raw.githubusercontent.com/WinstonMascarenhas1006/WinstonMascarenhas1006/main/assets/timeline.png" alt="Lab trajectory timeline" width="100%" />
 </div>
 
 <br/>
-
-### Research agenda
-
-| | Interest | What I practice |
-|:--:|:---------|:----------------|
-| **I** | **Detection & analysis** | Turning logs, traffic, and host artifacts into structured findings |
-| **II** | **Hardening & assurance** | Control-oriented checks, exposure reduction, verifiable baselines |
-| **III** | **Adversary-informed defense** | Studying techniques in isolated labs so remediation is concrete |
-| **IV** | **Secure construction** | Building full-stack systems with explicit trust boundaries |
-
----
 
 ### Selected corpus
 
@@ -52,7 +78,7 @@ I care about how attacks actually unfold, how defenses fail quietly, and how too
     <td width="50%" valign="top">
 
 #### <a href="https://github.com/WinstonMascarenhas1006/cybersecurity-projects">cybersecurity-projects</a>
-A structured lab corpus of **15 security tools** spanning reconnaissance, detection, hardening, and analysis — treated as reproducible learning artifacts.
+A structured lab corpus of **15 security tools** — reconnaissance, detection, hardening, analysis — treated as reproducible learning artifacts.
 
 `Python` · `Linux` · `CLI`
 
@@ -60,7 +86,7 @@ A structured lab corpus of **15 security tools** spanning reconnaissance, detect
     <td width="50%" valign="top">
 
 #### <a href="https://github.com/WinstonMascarenhas1006/Portfolio">Portfolio</a>
-Public presentation of cybersecurity focus, method, and engineering outcomes for academic and professional audiences.
+Public synthesis of cybersecurity focus, method, and engineering outcomes for academic and professional readers.
 
 `Next.js` · `TypeScript` · `Tailwind`
 
@@ -70,7 +96,7 @@ Public presentation of cybersecurity focus, method, and engineering outcomes for
     <td width="50%" valign="top">
 
 #### <a href="https://github.com/WinstonMascarenhas1006/Log-Analyser">Log-Analyser</a>
-Early work on automated log review for unusual activity and security-relevant events.
+Early investigation into automated log review for unusual activity and security-relevant events.
 
 `Python`
 
@@ -78,7 +104,7 @@ Early work on automated log review for unusual activity and security-relevant ev
     <td width="50%" valign="top">
 
 #### <a href="https://github.com/WinstonMascarenhas1006/team-process-improvement">team-process-improvement</a>
-Case study on team process quality — complementary discipline for reliable delivery.
+Case study on team process quality — complementary discipline for reliable delivery under constraints.
 
 `JavaScript`
 
@@ -95,16 +121,9 @@ Case study on team process quality — complementary discipline for reliable del
   </a>
 </p>
 
----
-
-### Method
-
-- Prefer **reproducible labs** with explicit in-scope / out-of-scope boundaries  
-- Document assumptions, limitations, and ethical constraints  
-- Prefer **measurable outputs** (reports, structured exports) over opaque results  
-- Maintain engineering discipline so security tools stay readable and maintainable  
-
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/WinstonMascarenhas1006/WinstonMascarenhas1006/main/assets/divider.png" alt="" width="100%" />
+</div>
 
 ### Activity
 
@@ -119,7 +138,7 @@ Case study on team process quality — complementary discipline for reliable del
 
 **Primary intellectual commitment:** cybersecurity — studied seriously, practiced carefully, built in public.
 
-[portfolio-winston-mascarenhas.vercel.app](https://portfolio-winston-mascarenhas.vercel.app)
+[portfolio](https://portfolio-winston-mascarenhas.vercel.app)
 ·
 [@WinstonMascarenhas1006](https://github.com/WinstonMascarenhas1006)
 ·
